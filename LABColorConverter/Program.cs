@@ -11,9 +11,29 @@ namespace LABColorConverter
         {
             Console.WriteLine("Red L*ab value is: ");
             ConvertRGBToLAB(255, 0, 0);
+            Console.WriteLine("Green L*ab value is: ");
+            ConvertRGBToLAB(0, 128, 0);
+            Console.WriteLine("Yellow L*ab value is: ");
+            ConvertRGBToLAB(255, 255, 0);
+            Console.WriteLine("Blue L*ab value is: ");
+            ConvertRGBToLAB(0, 0, 255);
+            Console.WriteLine("Orange L*ab value is: ");
+            ConvertRGBToLAB(255, 165, 0);
+            Console.WriteLine("Pink L*ab value is: ");
+            ConvertRGBToLAB(255, 192, 203);
+            Console.WriteLine("Teal L*ab value is: ");
+            ConvertRGBToLAB(0, 128, 128);
             Console.WriteLine("Purple L*ab value is: ");
             ConvertRGBToLAB(128, 0, 128);
             Console.ReadKey();
+            Console.WriteLine("Brown L*ab value is: ");
+            ConvertRGBToLAB(165, 42, 42);
+            Console.WriteLine("Yellow L*ab value is: ");
+            ConvertRGBToLAB(128, 128, 128);
+            Console.WriteLine("Black L*ab value is: ");
+            ConvertRGBToLAB(0, 0, 0);
+            Console.WriteLine("White L*ab value is: ");
+            ConvertRGBToLAB(255, 255, 255);
         }
 
         private static void ConvertRGBToLAB(double red, double green, double blue)
