@@ -1,0 +1,5 @@
+C:\Users\rswoody\documents\visual studio 2010\Projects\LABColorConverter\LABColorConverter\bin\Debug\LABColorConverter.exe
+C:\Users\rswoody\documents\visual studio 2010\Projects\LABColorConverter\LABColorConverter\bin\Debug\LABColorConverter.pdb
+C:\Users\rswoody\documents\visual studio 2010\Projects\LABColorConverter\LABColorConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rswoody\documents\visual studio 2010\Projects\LABColorConverter\LABColorConverter\obj\x86\Debug\LABColorConverter.exe
+C:\Users\rswoody\documents\visual studio 2010\Projects\LABColorConverter\LABColorConverter\obj\x86\Debug\LABColorConverter.pdb
